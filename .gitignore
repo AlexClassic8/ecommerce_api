@@ -1,0 +1,22 @@
+# Archivos y directorios a ignorar
+*.pyc
+__pycache__
+*.pyo
+*.pyd
+db.sqlite3
+*.log
+*.pot
+*.pyc
+*.swp
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Archivos específicos de Django
+*.sqlite3
+*.db
+
+# Archivos de configuración
+*.env
